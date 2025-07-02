@@ -1,0 +1,10 @@
+What is the Scanner class
+what is has.Next()
+char AT
+
+I Love Java
+012345678910
+Above each character is assigned to every index including space is also having the Index 1 & 6
+s.chatAt(1)-->Space
+s.chatAt(6)-->Space
+s.chatAt(7)-->J
